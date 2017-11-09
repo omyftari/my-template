@@ -1,0 +1,87 @@
+.top-bar {
+    background-color: rgb(51, 51, 51);
+    height: 44px;
+
+}
+
+.top-bar-text {
+    font-size: 13px;
+    font-family: "Verdana";
+    color: rgb(103, 103, 103);
+    line-height: 40px;
+
+}
+
+.top-bar-rounded {
+    background-color: rgb(62, 62, 62);
+    height: 30px;
+
+    border-radius: 9px;
+}
+
+.top-bar-search {
+    font-size: 12px;
+    font-family: "Georgia";
+    color: rgb(199, 206, 214);
+    text-align: left;
+    padding-top: 7px;
+    padding-left: 6px;
+
+}
+
+.search-bar {
+    padding-top: 8px;
+}
+
+.top-bar-icon {
+    color: white;
+}
+
+.top-nav-top-border {
+    background-color: rgb(0, 0, 0);
+    height: 1px;
+    z-index: 178;
+}
+
+.top-nav {
+    background-color: rgb(34, 34, 34);
+    margin-bottom: 0px;
+}
+
+.top-nav > ul > li {
+    border-right: 1px solid rgb(51, 51, 51);
+    padding: 0px 15px 0px 16px;
+}
+.top-nav > ul > .active a{
+    font-family: "Georgia";
+    color: rgb(150, 152, 69);
+}
+.top-nav > ul > li a{
+    font-family: "Georgia";
+    color: rgb(170, 170, 170);
+}
+
+
+.top-nav-bottom-border {
+    background-color: rgb(0, 0, 0);
+    height: 1px;
+}
+
+.top-nav-rectangle {
+    background-color: rgb(51, 51, 51);
+    width: 1px;
+    height: 59px;
+    z-index: 177;
+}
+
+.top-nav-homepage {
+    font-size: 14px;
+    font-family: "Georgia";
+    color: rgb(150, 152, 69);
+
+}
+
+
+
+
+
