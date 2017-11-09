@@ -1,0 +1,15 @@
+.line-center{
+    text-align: center;
+}
+.logo {
+    font-size: 90px;
+    font-family: "Georgia";
+    color: rgb(150, 152, 69);
+    line-height: 1.2;
+}
+.logo-desc{
+    font-size: 16px;
+    font-family: "Georgia";
+    color: rgb(36, 36, 36);
+    line-height: 1.2;
+}
